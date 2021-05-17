@@ -23,7 +23,7 @@ body {
   border-radius: 5px;
   margin-left: 40px;
 }
-#amount:hover{
+#amount:hover {
   background-color: aqua;
 }
 #header {
@@ -42,4 +42,9 @@ body {
   margin-left: 40px;
   width: 200px;
   height: auto;
+}
+#alert {
+  text-align: center;
+  margin-top: 5px;
+  color: rgba(255, 0, 0, 0.63);
 }
